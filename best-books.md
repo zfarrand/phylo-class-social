@@ -5,9 +5,10 @@
 - Lauren Frankel: Deathcaster by Cinda Williams Chima (fantasy, last book of a series)
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
-"A Wizards Guide to Defensive Baking"
-- What is this "Book" you speak of?
+- Max B: The Broken Heavens by Kameron Hurley
+- "A Wizards Guide to Defensive Baking" 
 - Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
+- What is this "Book" you speak of?
 - Maddie Topf: Giovanni's Room by James Baldwin
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
