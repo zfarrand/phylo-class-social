@@ -3,4 +3,4 @@
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
-
+- Roberto Carrera Martinez: Taino: A Novel by Jose Barreiro
