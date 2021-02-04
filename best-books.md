@@ -6,3 +6,5 @@
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
 "A Wizards Guide to Defensive Baking"
+- Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
+- Maddie Topf: Giovanni's Room by James Baldwin
