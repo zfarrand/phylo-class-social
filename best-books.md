@@ -3,5 +3,5 @@
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
+- Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
 
-"A Wizards Guide to Defensive Baking" 
