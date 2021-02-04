@@ -2,3 +2,5 @@
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 - Grant Nickles: The Scythe Trilogy by Neal Shusterman
+- Ben Teo: The Shadow of Kiyoshi (Avatar fans)
+- Emma Howell: The Handmaid's Tale (dystopian sci-fi)
