@@ -6,3 +6,4 @@
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
 - Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
 
+- Maddie Topf: Giovanni's Room by James Baldwin
