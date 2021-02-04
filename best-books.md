@@ -2,7 +2,11 @@
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+- Lauren Frankel: Deathcaster by Cinda Williams Chima (fantasy, last book of a series)
+>>>>>>> a3144e612a5199bddcbfb4dc1f5ab1adde7e8d9e
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
 >>>>>>> dd7dd1fa6292c239035308b6be061e5d7daee1ac
