@@ -5,6 +5,10 @@
 - Lauren Frankel: Deathcaster by Cinda Williams Chima (fantasy, last book of a series)
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
+git pull upstream master
+
+- Roberto Carrera Martinez: Taino: A Novel by Jose Barreiro
+=======
 - Max B: The Broken Heavens by Kameron Hurley
 - "A Wizards Guide to Defensive Baking" 
 - Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
@@ -13,3 +17,4 @@
 - Phylogenetics by Mike Steel and Charles Semple
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
+
