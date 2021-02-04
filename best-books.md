@@ -5,4 +5,4 @@
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
 - Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
-
+- Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
