@@ -2,3 +2,4 @@
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 
+- Maddie Topf: Giovanni's Room by James Baldwin
