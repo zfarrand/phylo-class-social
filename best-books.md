@@ -10,3 +10,4 @@
 - What is this "Book" you speak of?
 - Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
 - Maddie Topf: Giovanni's Room by James Baldwin
+- Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
