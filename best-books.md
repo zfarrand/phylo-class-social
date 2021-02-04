@@ -4,5 +4,5 @@
 - Lauren Frankel: Deathcaster by Cinda Williams Chima (fantasy, last book of a series)
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
+- Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
 
-"A Wizards Guide to Defensive Baking" 
