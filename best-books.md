@@ -1,14 +1,13 @@
 # List of best books read in 2020 by Botany 563 Spring 2021 class
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
+- Kelsey Huisman: Killers of the Flower Moon by Brian Grann (true crime)
 - Grant Nickles: The Scythe Trilogy by Neal Shusterman
 - Lauren Frankel: Deathcaster by Cinda Williams Chima (fantasy, last book of a series)
 - Ben Teo: The Shadow of Kiyoshi (Avatar fans)
 - Emma Howell: The Handmaid's Tale (dystopian sci-fi)
-git pull upstream master
-
 - Roberto Carrera Martinez: Taino: A Novel by Jose Barreiro
-=======
+- Roberto Carrera Martinez: Taino: A Novel by Jose Barreiro
 - Max B: The Broken Heavens by Kameron Hurley
 - "A Wizards Guide to Defensive Baking" 
 - Lily Hislop: A Wizard's Guide to Defensive Baking by T. Kingfisher (fantasy)
@@ -18,4 +17,3 @@ git pull upstream master
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
 -Patty: The Dispossesed by Ursula LeGuin
-
