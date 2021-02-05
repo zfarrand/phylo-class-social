@@ -2,7 +2,7 @@
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 <<<<<<< HEAD
-- Killers of the Flower Moon by Brian Grann (true crime)
+- Kelsey Huisman: Killers of the Flower Moon by Brian Grann (true crime)
 
 =======
 - Grant Nickles: The Scythe Trilogy by Neal Shusterman
