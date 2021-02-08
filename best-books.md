@@ -17,3 +17,4 @@
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
 -Patty: The Dispossesed by Ursula LeGuin
+-Trevor: not currently reading for enjoyment.
