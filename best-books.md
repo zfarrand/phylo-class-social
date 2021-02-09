@@ -18,3 +18,4 @@
 - Cris: The Hobbit
 -Patty: The Dispossesed by Ursula LeGuin
 -Trevor: not currently reading for enjoyment.
+- Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
