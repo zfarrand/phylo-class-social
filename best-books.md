@@ -1,7 +1,8 @@
 # List of best books read in 2021 by Botany 563 Spring 2022 class
--Iurii Gurkov: Somebody to love (Gay cheap and cheesy romance novell) 
 
-
+- Patricia Chan: State of Wonder by Ann Patchett
+- Iurii Gurkov: Somebody to love (Gay cheap and cheesy romance novell) 
+-Joye Zhou: Birds of the World
 
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
@@ -22,8 +23,8 @@
 - Phylogenetics by Mike Steel and Charles Semple
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
--Patty: The Dispossesed by Ursula LeGuin
--Trevor: not currently reading for enjoyment.
+- Patty: The Dispossesed by Ursula LeGuin
+- Trevor: not currently reading for enjoyment.
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
@@ -36,3 +37,6 @@
 - Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
+
+
+
