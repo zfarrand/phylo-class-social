@@ -28,4 +28,10 @@
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
 - Alexander: Tangled tree
-
+- Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
+- Kaustubh Amritkar: The Kite Runner
+- Origin by Dan Brown
+- Arth Patel: I didn't read any books but Cars is the best movie of all time
+- Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
+- Kaustubh Amritkar: The Kite Runner
+- Conor: Atonement by Ian McEwan
