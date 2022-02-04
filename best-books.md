@@ -1,6 +1,5 @@
 # List of best books read in 2021 by Botany 563 Spring 2022 class
-- Ayken Askapuli: Selfish Gene by Richard Dawkins
--Iurii Gurkov: Somebody to love (Gay cheap and cheesy romance novell) 
+- Ayken Askapuli: Selfish Gene by Richard Dawkins 
 
 
 
