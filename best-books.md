@@ -1,6 +1,6 @@
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
-
+- Patricia Chan: State of Wonder by Ann Patchett
 
 
 
@@ -22,7 +22,7 @@
 - Phylogenetics by Mike Steel and Charles Semple
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
--Patty: The Dispossesed by Ursula LeGuin
+- Patty: The Dispossesed by Ursula LeGuin
 -Trevor: not currently reading for enjoyment.
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
@@ -32,3 +32,4 @@
 - Kaustubh Amritkar: The Kite Runner
 >>>>>>> 1a41e8fd469eac1851b66a14f1a8e4fc36e4d508
 - Conor: Atonement by Ian McEwan
+
