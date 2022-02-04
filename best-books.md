@@ -29,3 +29,4 @@
 - Carl Branch: Three Men in a Boat
 - Arth Patel: I didn't read any books but Cars is the best movie of all time
 - Kaustubh Amritkar: The Kite Runner
+- Conor: Atonement by Ian McEwan
