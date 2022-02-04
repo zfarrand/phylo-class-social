@@ -28,6 +28,7 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
+-Bing li: Factfulness? 
 - Alexander: Tangled tree
 - Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
 - Kaustubh Amritkar: The Kite Runner
@@ -36,5 +37,6 @@
 - Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
-- Conor: Atonement by Ian McEwan
+
+
 
