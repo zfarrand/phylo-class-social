@@ -27,4 +27,7 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-- Conor: Atonement by Ian McEwan
+<<<<<<< HEAD
+=======
+- Kaustubh Amritkar: The Kite Runner
+>>>>>>> 1a41e8fd469eac1851b66a14f1a8e4fc36e4d508
