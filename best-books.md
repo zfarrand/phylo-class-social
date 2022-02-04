@@ -1,6 +1,6 @@
 # List of best books read in 2021 by Botany 563 Spring 2022 class
-
-
+-Iurii Gurkov: Somebody to love (Gay cheap and cheesy romance novell) 
+-Joye Zhou: Birds of the World
 
 
 
@@ -27,6 +27,10 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-- Kaustubh Amritkar: The
+- Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
+- Kaustubh Amritkar: The Kite Runner
+- Origin by Dan Brown
+- Arth Patel: I didn't read any books but Cars is the best movie of all time
+- Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
+- Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
--Joye Zhou: Birds of the World
