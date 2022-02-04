@@ -29,3 +29,4 @@
 - Carl Branch: Three Men in a Boat
 - Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
 - Kaustubh Amritkar: The Kite Runner
+- Conor: Atonement by Ian McEwan
