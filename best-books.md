@@ -29,4 +29,6 @@
 - Carl Branch: Three Men in a Boat
 - Kaustubh Amritkar: The Kite Runner
 - Origin by Dan Brown
+- Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
+- Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
