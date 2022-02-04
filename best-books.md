@@ -27,4 +27,6 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-- Joye Zhou: Birds of the World
+- Kaustubh Amritkar: The
+- Conor: Atonement by Ian McEwan
+-Joye Zhou: Birds of the World
