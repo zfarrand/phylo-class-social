@@ -27,6 +27,7 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
+- Arth Patel: I didn't read any books but Cars is the best movie of all time
 - Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
