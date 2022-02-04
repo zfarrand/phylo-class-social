@@ -28,5 +28,6 @@
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
 - Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
+- Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
