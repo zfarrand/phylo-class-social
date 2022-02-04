@@ -27,4 +27,4 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-- Maggie: Braiding Sweetgradd by Robin Wall Kimmerer
+- Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
