@@ -23,10 +23,13 @@
 - Beth Moore: A Breath of Snow and Ashes (Outlander series) Diana C.
 - Cris: The Hobbit
 - Patty: The Dispossesed by Ursula LeGuin
--Trevor: not currently reading for enjoyment.
+- Trevor: not currently reading for enjoyment.
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
+- Kaustubh Amritkar: The Kite Runner
+- Origin by Dan Brown
+- Arth Patel: I didn't read any books but Cars is the best movie of all time
 - Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Kaustubh Amritkar: The Kite Runner
 - Conor: Atonement by Ian McEwan
