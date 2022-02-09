@@ -1,9 +1,15 @@
 # List of best books read in 2021 by Botany 563 Spring 2022 class
+
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
+- Kaustubh Amritkar: The Kite Runner
+- Arth Patel: I didn't read any books but Cars is the best movie of all time
+- Origin by Dan Brown
+- Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
 - Patricia Chan: State of Wonder by Ann Patchett
 - Iurii Gurkov: Somebody to love (Gay cheap and cheesy romance novell) 
+- Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Joye Zhou: Birds of the World
-
+- Conor: Atonement by Ian McEwan
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
 
@@ -28,8 +34,9 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
--Bing li: Factfulness? 
+- Bing li: Factfulness? 
 - Alexander: Tangled tree
+<<<<<<< HEAD
 - Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
 - Kaustubh Amritkar: The Kite Runner
 - Origin by Dan Brown
@@ -41,6 +48,8 @@
 <<<<<<< HEAD
 =======
 
+=======
+>>>>>>> c5302772f08f18fbf8280a6ea0552bd362108e41
 
 
 >>>>>>> 81db1ec0b2ad869545373992c1eb5f9c0d3aeb71
