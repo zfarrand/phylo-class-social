@@ -1,5 +1,6 @@
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
+- Ayken Askapuli: Selfish Gene by Richard Dawkins 
 - Kaustubh Amritkar: The Kite Runner
 - Arth Patel: I didn't read any books but Cars is the best movie of all time
 - Origin by Dan Brown
@@ -33,11 +34,4 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-<<<<<<< HEAD
--Yushin Wei: Project Hail Mary
-=======
-- Bing li: Factfulness? 
-- Alexander: Tangled tree
 
-
->>>>>>> c5302772f08f18fbf8280a6ea0552bd362108e41
