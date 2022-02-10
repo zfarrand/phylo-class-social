@@ -10,7 +10,7 @@
 - Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
 - Joye Zhou: Birds of the World
 - Conor: Atonement by Ian McEwan
-
+- Yushin: Project Hail Mary (hard core sci-fi)
 # List of best books read in 2020 by Botany 563 Spring 2021 class
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
@@ -34,24 +34,4 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-- Bing li: Factfulness? 
-- Alexander: Tangled tree
-<<<<<<< HEAD
-- Maggie: Braiding Sweetgrass by Robin Wall Kimmerer
-- Kaustubh Amritkar: The Kite Runner
-- Origin by Dan Brown
-- Arth Patel: I didn't read any books but Cars is the best movie of all time
-- Nicole Mitidieri: Tree Thinking by David Baum (mystery, true crime)
-- Kaustubh Amritkar: The Kite Runner
-- Conor: Atonement by Ian McEwan
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
-=======
->>>>>>> c5302772f08f18fbf8280a6ea0552bd362108e41
-
-
->>>>>>> 81db1ec0b2ad869545373992c1eb5f9c0d3aeb71
-=======
->>>>>>> 802e1294bd2a045a86c4a4626faef402456b7884
