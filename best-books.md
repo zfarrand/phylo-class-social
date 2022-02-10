@@ -11,6 +11,9 @@
 - Joye Zhou: Birds of the World
 - Conor: Atonement by Ian McEwan
 - Yushin: Project Hail Mary (hard core sci-fi)
+- Bing li: Factfulness?
+- Alexander: Tangled tree
+
 # List of best books read in 2020 by Botany 563 Spring 2021 class
 
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
