@@ -1,3 +1,6 @@
+# List of best books read in 2022 by Botany 563 Spring 2023 class
+- Patricia Zito: Molecular Biology of the Cell (horror)
+
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
