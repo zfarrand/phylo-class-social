@@ -2,10 +2,15 @@
 
 - Ben Rush: LOTR series
 - Ben Klementz: Cujo by Stephen King
+- Patricia Zito: Molecular Biology of the Cell (horror)
+- Corbin Bryan: Amanitas of the South Eastern United States
+- Ben Klementz: Cujo by Stephen King
 - Hunter Ries: Invisible Man by Ralph Elliso
 - Corbin Bryan: Amanitas of the South Eastern United States
 - Carl Branch: Three Men in a Boat
 - Quaid Handy: From Strength to Strength
+- Ellie Coppock: Daisy Jones and the Six
+- Hailey: Pachinko
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
@@ -23,6 +28,8 @@
 - Yushin: Project Hail Mary (hard core sci-fi)
 - Bing li: Factfulness?
 - Alexander: Tangled tree
+All the bright places- Jennifer Niven
+- Aidyn Kehrli: The Giver by Lois Lowry 
 - Madelyn Garbo : The Silent Patient
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
