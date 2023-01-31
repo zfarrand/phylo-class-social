@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # List of best books read in 2022 by Botany 563 Spring 2022 class
 - Ben Klementz: Cujo by Stephen King
 - Hunter Ries: Invisible Man by Ralph Elliso
+- Corbin Bryan: Amanitas of the South Eastern United States
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
