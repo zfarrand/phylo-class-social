@@ -37,5 +37,7 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-- Brooke Lewis: Harry Potter Series
 
+# List of best books read in 2020 by Botany 563 Spring 2023 class
+
+- Brooke Lewis: Harry Potter
