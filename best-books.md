@@ -37,4 +37,4 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-
+- From Strength to Strength: Arthur C. Brooks
