@@ -13,6 +13,7 @@
 - Yushin: Project Hail Mary (hard core sci-fi)
 - Bing li: Factfulness?
 - Alexander: Tangled tree
+- Brooke H: The Defining Decade by Meg Jay
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
 
