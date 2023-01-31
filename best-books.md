@@ -1,5 +1,5 @@
 # List of best books read in 2022 by Botany 563 Spring 2022 class
--Hongyi Huang: The Lord of the Rings
+- Hongyi Huang: The Lord of the Rings
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
