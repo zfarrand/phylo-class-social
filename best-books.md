@@ -2,6 +2,8 @@
 - Ben Klementz: Cujo by Stephen King
 - Hunter Ries: Invisible Man by Ralph Elliso
 - Corbin Bryan: Amanitas of the South Eastern United States
+- Carl Branch: Three Men in a Boat
+- Quaid Handy: From Strength to Strength
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
@@ -41,9 +43,3 @@
 - Trevor: not currently reading for enjoyment.
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
-<<<<<<< HEAD
-- Carl Branch: Three Men in a Boat
-=======
-- Carl Branch: Three Men in a Boat
-- Quaid Handy: From Strength to Strength
->>>>>>> b77df59488d84d7e61d5e915a08b5166534fde16
