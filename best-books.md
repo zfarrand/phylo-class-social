@@ -5,6 +5,7 @@
 - Carl Branch: Three Men in a Boat
 - Quaid Handy: From Strength to Strength
 - Ellie Coppock: Daisy Jones and the Six
+- Hailey: Pachinko
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
