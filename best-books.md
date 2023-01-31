@@ -1,3 +1,8 @@
+# List of best books read in 2022 by Botany 563 Spring 2022 class
+
+-Ben Klementz: Cujo by Stephen King
+-Corbin Bryan: Amanitas of the South Eastern United States
+
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
@@ -38,6 +43,3 @@
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
 
-# List of best books read in 2020 by Botany 563 Spring 2023 class
-
-- Brooke Lewis: Harry Potter
