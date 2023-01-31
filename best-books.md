@@ -20,6 +20,7 @@
 - Yushin: Project Hail Mary (hard core sci-fi)
 - Bing li: Factfulness?
 - Alexander: Tangled tree
+All the bright places- Jennifer Niven
 - Aidyn Kehrli: The Giver by Lois Lowry 
 - Madelyn Garbo : The Silent Patient
 
