@@ -1,5 +1,5 @@
 # List of best books read in 2022 by Botany 563 Spring 2023 class
-- Hongyi Huang: The Lord of the Rings
+- Hongyi: The Lord of the Rings
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
@@ -39,4 +39,4 @@
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
 - Carl Branch: Three Men in a Boat
-
+- Wanting Wei: Kitchen confidential
