@@ -33,9 +33,13 @@
 - Yushin: Project Hail Mary (hard core sci-fi)
 - Bing li: Factfulness?
 - Alexander: Tangled tree
+<<<<<<< HEAD
+- Brooke H: The Defining Decade by Meg Jay
+=======
 All the bright places- Jennifer Niven
 - Aidyn Kehrli: The Giver by Lois Lowry 
 - Madelyn Garbo : The Silent Patient
+>>>>>>> 68ad75a11f186a7c467d85660cbcfa10e80a76f6
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
 
