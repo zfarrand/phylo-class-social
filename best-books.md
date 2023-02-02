@@ -11,6 +11,7 @@
 - Ellie Coppock: Daisy Jones and the Six
 - Hailey: Pachinko
 - Rajvi Patel: Man's Search for Meaning by Victor Frankl
+- Ben Rush: LOTR series
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
