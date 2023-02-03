@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # List of best books read in 2022 by Botany 563 Spring 2023 class
 - Hongyi Huang: The Lord of the Rings
 - Ben Rush: LOTR series
@@ -13,9 +12,9 @@
 - Ellie Coppock: Daisy Jones and the Six
 - Hailey: Pachinko
 - Rajvi Patel: Man's Search for Meaning by Victor Frankl
+- Ben Rush: LOTR series
+
 # List of best books read in 2021 by Botany 563 Spring 2022 class
-
-
 - Ayken Askapuli: Selfish Gene by Richard Dawkins 
 - Kaustubh Amritkar: The Kite Runner
 - Arth Patel: I didn't read any books but Cars is the best movie of all time
@@ -30,12 +29,9 @@
 - Bing li: Factfulness?
 - Alexander: Tangled tree
 - Brooke H: The Defining Decade by Meg Jay
-- All the bright places- Jennifer Niven
-- Aidyn Kehrli: The Giver by Lois Lowry 
-- Madelyn Garbo : The Silent Patient
+
 
 # List of best books read in 2020 by Botany 563 Spring 2021 class
-
 - Claudia Solis-Lemus: The 7.5 deaths of Evelyn Hardcastle by Stuart Turton (mystery)
 - Kelsey Huisman: Killers of the Flower Moon by Brian Grann (true crime)
 - Grant Nickles: The Scythe Trilogy by Neal Shusterman
