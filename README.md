@@ -1,2 +1,2 @@
-# Botany 562 Spring 2022
+# Botany/Plant Path 562 Spring 2024
 Dummy repository to practice git/github
