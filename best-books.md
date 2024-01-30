@@ -80,3 +80,4 @@ All the bright places- Jennifer Niven
 - Trevor: not currently reading for enjoyment.
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
+- Sarah: Les Miserables 
