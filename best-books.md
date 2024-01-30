@@ -1,8 +1,21 @@
 # List of best books read in 2023 by Botany 563 Spring 2024 class
+<<<<<<< HEAD
+- 
+
+
+=======
+>>>>>>> 5458263f11267da5b1d1cf6a6cb1d38b95a36b85
+
+- -Laurel Sutherland
+- Sarah: Les Miserables by Victor Hugo
+- Jackie Lemaire: Lessons in Chemistry
+- Song of Achilles by Madeline Miiller
+- Avery Imes: Six of Crows
+- Harrison Estes: The Lord of the Rings
+- Ben Haefner: The Lord of the Rings
+- Amish: The oath of Vayuputras 
+- Zach Farrand: Tales from the Ant World
 - Kaiju Preservation Society by John Scalzi
-
-
-
 
 
 
@@ -24,7 +37,6 @@
 - Hailey: Pachinko
 - Rajvi Patel: Man's Search for Meaning by Victor Frankl
 - Austin VanDenTop: Project Hail Mary by Andy Weir
-
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
@@ -81,3 +93,4 @@ All the bright places- Jennifer Niven
 - Trevor: not currently reading for enjoyment.
 - Angelise Puls: Fun Home by Alison Bechdel (graphic novel autobiography)
 - Soyoung: Harry potter?
+
