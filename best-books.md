@@ -1,10 +1,4 @@
 # List of best books read in 2023 by Botany 563 Spring 2024 class
-<<<<<<< HEAD
-- 
-
-
-=======
->>>>>>> 5458263f11267da5b1d1cf6a6cb1d38b95a36b85
 
 - -Laurel Sutherland
 - Sarah: Les Miserables by Victor Hugo
@@ -15,6 +9,7 @@
 - Ben Haefner: The Lord of the Rings
 - Amish: The oath of Vayuputras 
 - Zach Farrand: Tales from the Ant World
+- Jamie : The court of thorns and roses 
 - Kaiju Preservation Society by John Scalzi
 
 
