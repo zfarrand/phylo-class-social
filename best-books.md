@@ -10,6 +10,8 @@
 - Amish: The oath of Vayuputras 
 - Zach Farrand: Tales from the Ant World
 - Jamie : The court of thorns and roses 
+- Kaiju Preservation Society by John Scalzi
+
 
 
 
