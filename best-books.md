@@ -1,4 +1,8 @@
 # List of best books read in 2023 by Botany 563 Spring 2024 class
+- Jackie Lemaire: Lessons in Chemistry
+-Song of Achilles by Madeline Miiller
+- Avery Imes: Six of Crows
+- Harrison Estes: The Lord of the Rings
 - Zach Farrand: Tales from the Ant World
 
 
