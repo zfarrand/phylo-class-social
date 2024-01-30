@@ -1,5 +1,6 @@
 # List of best books read in 2023 by Botany 563 Spring 2024 class
 
+- Avery Imes: Six of Crows
 
 
 
