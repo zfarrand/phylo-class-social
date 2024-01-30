@@ -1,5 +1,5 @@
 # List of best books read in 2023 by Botany 563 Spring 2024 class
-
+- Jackie Lemaire: Lessons in Chemistry
 
 
 
@@ -23,7 +23,6 @@
 - Hailey: Pachinko
 - Rajvi Patel: Man's Search for Meaning by Victor Frankl
 - Austin VanDenTop: Project Hail Mary by Andy Weir
-
 
 # List of best books read in 2021 by Botany 563 Spring 2022 class
 
