@@ -5,8 +5,8 @@
 - Song of Achilles by Madeline Miiller
 - Avery Imes: Six of Crows
 - Harrison Estes: The Lord of the Rings
+- Ben Haefner: The Lord of the Rings
 - Amish: The oath of Vayuputras 
-
 
 
 
